@@ -1,0 +1,25 @@
+header{
+    /* Text Style */    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    /* Alignment */       
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+h1{
+    /* Color */       
+    color: teal;
+    
+    /* Font */    
+    font-size: 35px;
+}
+
+p{
+    /* Color */    
+    color: blackwhite;
+    
+    /* Font */    
+    font-size: 25px;
+}
